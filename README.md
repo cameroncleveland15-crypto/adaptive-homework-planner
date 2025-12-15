@@ -1,4 +1,4 @@
-# adaptive-homework-planner # Adaptive Homework Planner for Students
+# Adaptive Homework Planner for Students
 
 ## Product Vision
 Build a smart homework planner that automatically adapts to a student’s real school schedule, workload, and deadlines. The app should reduce stress, prevent last-minute cramming, and help students complete assignments on time by intelligently planning when homework should be done.
